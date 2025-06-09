@@ -1,0 +1,1 @@
+# Makes Optik a package for PyInstaller 

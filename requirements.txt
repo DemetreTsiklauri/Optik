@@ -1,0 +1,17 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+filterpy==1.4.5
+pyautogui==0.9.54
+SpeechRecognition==3.10.1
+PySide6==6.5.2
+py2app==0.28.6
+pyaudio==0.2.14
+rubicon-objc==0.4.0
+pykalman==0.9.5
+pyobjc-framework-Quartz==9.2
+python-dotenv==1.0.1
+absl-py==2.1.0
+protobuf==4.25.3
+PyAudio==0.2.14
+requests==2.31.0

@@ -1,0 +1,1 @@
+# Vendored filterpy subpackage for PyInstaller compatibility 
