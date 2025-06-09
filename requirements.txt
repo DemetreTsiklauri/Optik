@@ -12,6 +12,6 @@ pykalman==0.9.5
 pyobjc-framework-Quartz==9.2
 python-dotenv==1.0.1
 absl-py==2.1.0
-protobuf==4.25.3
+protobuf<4,>=3.11
 PyAudio==0.2.14
 requests==2.31.0
